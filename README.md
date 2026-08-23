@@ -245,7 +245,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Full-stack developer, BSCS student at University of the Punjab. Open to freelance work and full-stack opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdul-Hanan-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hananz/)
 
 <br/>
 
